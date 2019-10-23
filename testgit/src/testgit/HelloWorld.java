@@ -8,6 +8,9 @@ public class HelloWorld {
 		System.out.println("Time is 1:06 am");
 		
 		System.out.println("test");
+	
+		
+		System.out.println("배고파");
 	}
 
 }
